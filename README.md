@@ -6,9 +6,9 @@ Need to quickly convert a decimal or hex number (0-F) into binary? Now you can, 
 ![{A8E67898-C91C-43EA-B9C3-290D27C23CCB}](https://github.com/user-attachments/assets/a41c7487-cc31-4dc1-b3b7-0d946edf8ae6)
 
 ## PCB
-![{FF36AE83-3DA7-4CD6-AEAA-66CB17ED73B2}](https://github.com/user-attachments/assets/a80bfe4c-e6be-4077-a61e-1e7462b661fd)
-![{238E72D5-243B-4D0B-9D4E-4733DD6FEA0A}](https://github.com/user-attachments/assets/80ab5e84-7eb6-4f83-859a-7c8786bf7416)
-![{E5A4C4A8-24F5-4D2D-9AEE-995E5B1FD892}](https://github.com/user-attachments/assets/fe8b28e8-3775-4a43-a29a-ce36eee4a27e)
+![{A1F9802F-7AA9-40E7-A34D-696F1E877A08}](https://github.com/user-attachments/assets/8395d459-6b60-462c-bc55-cbddc1cccae6)
+![{DC870F53-915A-4CC9-BBED-220506A0A645}](https://github.com/user-attachments/assets/147a77de-f0cc-4058-b984-a9f3b85c2553)
+![{788939AA-60FB-4090-853C-56C29CDD8980}](https://github.com/user-attachments/assets/44779fad-78ec-4de8-afbc-c0caa1b2c5cc)
 
 ## How to build
 Just order the PCB & components, open up the KiCAD file and build it accordingly.
